@@ -40,3 +40,4 @@ This simple Android app, RecyclerViewDemo, was created to learn and implement th
 Happy coding! 🚀
 
 ## Screenshots
+![Screenshot](https://github.com/iampranshu2003/RecyclerViewDemo/blob/master/day4.jpg)
